@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate AI and Backend developer from Iran</h3>
 
-- 🔭 I’m currently working on [Bloggie](https://github.com/MohammadMdv/Bloggie)
-
-- 🌱 I’m currently learning **Graph Neural networks**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadMdv](https://github.com/MohammadMdv)
 
-- 📫 How to reach me **mohammad.s13811381@gmail.com**
+- 📫 How to reach me **mhm.ebrh.mahdavi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
