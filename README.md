@@ -20,9 +20,9 @@
 
 ### 👋 About me
 
-I'm an AI engineer and researcher working where **robust machine learning** meets **real-world systems**. I lead the Vision & LLM teams at **DuoAnalytics** and do research on adversarial robustness and backdoor attacks in speech and vision models at the **RIML Lab, Sharif University of Technology** and **LIPhy, Université Grenoble Alpes**.
+I'm an AI engineer and researcher working where **robust machine learning** meets **real-world systems**. I am the Vision Lead at **DuoAnalytics** and do research on adversarial robustness and backdoor attacks in speech and vision models at the **RIML Lab, Sharif University of Technology** and **LIPhy, Université Grenoble Alpes**.
 
-- 🏢 **Senior AI Engineer & Team Lead, Vision and LLM** at [DuoAnalytics](#-experience) (New York, remote)
+- 🏢 **Senior AI Engineer & Vision Lead** at [DuoAnalytics](#-experience) (New York, remote)
 - 🔬 **Research Assistant** at RIML Lab (Sharif) with Prof. M. H. Rohban, and at LIPhy (UGA) with Prof. A. Gourrier & Dr. P. Adibi
 - 🎓 **B.Sc. Computer Engineering**, University of Isfahan · top 1% in the Iranian National University Entrance Exam
 - 📄 Papers at **NeurIPS 2026** and **TMLR 2026**
@@ -99,7 +99,7 @@ I'm an AI engineer and researcher working where **robust machine learning** meet
 
 | Role | Where | When |
 | :--- | :--- | :---: |
-| **Senior AI Engineer & Team Lead, Vision and LLM** | DuoAnalytics · New York (remote) | Jul 2026 – now |
+| **Senior AI Engineer & Vision Lead** | DuoAnalytics · New York (remote) | Jul 2026 – now |
 | **Research Assistant** | RIML Lab, Sharif University of Technology | Nov 2025 – now |
 | **Research Assistant** | LIPhy, Université Grenoble Alpes (remote) | Nov 2024 – now |
 | **Software Engineer (AI)** | PayamPardaz · Isfahan | Aug 2024 – now |
