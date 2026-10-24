@@ -46,55 +46,6 @@ I'm an AI engineer and researcher working where **robust machine learning** meet
 
 ---
 
-### 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧬 <a href="https://github.com/MohammadMdv/mllm-hwsi-app">MLLM-HWSI Inference & Reproducibility</a></h4>
-      <sub>A config-driven app serving a CVPR 2026 whole-slide multimodal LLM (Qwen2.5-7B + CellViT/CONCH/HIPT) on a single 24 GB GPU, with a documented reproducibility study.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔎 <a href="https://github.com/MohammadMdv/histopath-retrieval">Histopathology Patch Retrieval</a></h4>
-      <sub>Content-based image retrieval over NCT-CRC-HE-100K with pathology foundation models (phikon-v2), patient-disjoint splits and under 3 GB peak VRAM.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐹 <a href="https://github.com/MohammadMdv/GoOD">GoOD: Go Outlier Detection</a></h4>
-      <sub>A PyOD-inspired anomaly-detection library with 13+ algorithms (IForest, LOF, KNN, HBOS, ECOD, COPOD, PCA, LODA, ABOD, …) built for high-throughput streaming workloads.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Open_Source-✓-brightgreen?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🦀 <a href="https://github.com/MohammadMdv/rsod">RsOD: Rust Outlier Detection</a></h4>
-      <sub>An idiomatic Rust re-implementation of GoOD with the same 13 algorithms and a PyOD-style <code>fit</code> / <code>predict</code> / <code>predict_proba</code> API.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Open_Source-✓-brightgreen?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🕸️ <a href="https://github.com/MohammadMdv/GNN_deepening">Deepening Graph Neural Networks</a></h4>
-      <sub>A benchmark of tricks for training deep GNNs, reaching 32 layers without over-smoothing.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square&logo=pyg&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/MohammadMdv/Elasticsearch">Semantic Search on Elasticsearch</a></h4>
-      <sub>Index and document management with text and embedding-based kNN search behind a Streamlit interface.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💼 Experience
 
 | Role | Where | When |
